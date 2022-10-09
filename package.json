@@ -4,7 +4,7 @@
   "description": "My Burger Api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"\
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/Trav-Smith/burger-api#readme",
   "dependencies": {
-    "json-server": "^0.17.0"
+    "json-server": "0.17.0"
   }
 }
